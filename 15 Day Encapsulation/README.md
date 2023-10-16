@@ -48,8 +48,8 @@ dog1 = Dog("Buddy", 3)
 dog2 = Dog("Charlie", 5)
 
 # Accessing attributes and calling methods of instances
-dog1.describe()  # Output: Buddy is 3 years old.
-dog2.bark()      # Output: Charlie is barking!
+dog1.bark()  # Output: Buddy is barking!
+dog2.describe()      # Output: Charlie is 5 years old.
 ```
 
 In this example:
